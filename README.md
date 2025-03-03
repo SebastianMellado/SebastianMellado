@@ -1,7 +1,8 @@
 - 👋 I’m Sebastian  🚀 Márketing Digital ⚡
 -  Sound Digital Procesor
 - 📢 Web developers 
-- 🛒 PrestaShop ///Worship & Sound Engeenier////
+- 🛒 Shopify
+- ///Worship & Sound Engeenier////
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
